@@ -1,1 +1,22 @@
+# Ignore the 'assets' folder
+/assets/
+
+# Ignore node_modules (if using Node.js or npm)
+node_modules/
+
+# Ignore log files
+*.log
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore compiled files
+*.min.js
+*.min.css
+
+# Ignore temporary files
+*.swp
+*.bak
+*.tmp
 
